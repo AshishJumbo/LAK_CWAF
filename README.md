@@ -1,3 +1,6 @@
+# Please note that while the analysis code is availabel through CC the dataset we use is covered by the [ASSISTments License](https://new.assistments.org/terms-and-conditions-assistments)
+
+------
 # LAK_CWAF
 
 > 3 PSA in this section 
@@ -20,3 +23,6 @@
 >> control:  "S1: treatment1" <br/>
 >> treatment:"S2: treatment2" 
 > 
+
+
+### The preprocessing and initial analysis of this work is done using Python but the final analysis and verification of the data is done using R.
