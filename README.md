@@ -1,4 +1,4 @@
-# Please note that while the analysis code is availabel through CC the dataset we use is covered by the [ASSISTmetns License](https://new.assistments.org/terms-and-conditions-assistments)
+# Please note that while the analysis code is availabel through CC the dataset we use is covered by the [ASSISTments License](https://new.assistments.org/terms-and-conditions-assistments)
 
 ------
 # LAK_CWAF
