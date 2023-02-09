@@ -11,8 +11,8 @@ library(dplyr)
 library(knitr)
 # print 
 
-data <- read.csv('./data/cwaf_v1_v2_plogs_final_R.csv')
-data_filtered <- read.csv('./data/cwaf_v1_v2_plogs_final_filtered_R.csv')
+data <- read.csv('../data/processed0.2/cwaf_v1_v2_plogs_final_R.csv')
+data_filtered <- read.csv('../data/processed0.2/cwaf_v1_v2_plogs_final_filtered_R.csv')
 
 hist(data[data$control_treatments=="control",]$prior_pr_avg_correctness)
 hist(data[data$control_treatments=="treatment",]$prior_pr_avg_correctness)
